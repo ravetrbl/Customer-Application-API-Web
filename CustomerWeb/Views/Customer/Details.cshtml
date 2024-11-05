@@ -1,0 +1,33 @@
+﻿@model CustomerAPI.Models.Customer
+
+<div class="uk-card uk-card-default uk-card-body uk-margin">
+    <h1 class="uk-heading"><span>Customer Details</span></h1>
+
+    <div>
+
+        <hr />
+        <dl class="uk-description-list uk-description-list-divider">
+            <dt>Full Name</dt>
+            <dd>@Model.FullName</dd>
+
+            <dt>Birthdate</dt>
+            <dd>@Model.Birthdate.ToShortDateString()</dd>
+
+            <dt>Gender</dt>
+            <dd>@Model.Gender</dd>
+
+            <dt>Address</dt>
+            <dd>@Model.Address</dd>
+
+            <dt>Contact Number</dt>
+            <dd>@Model.ContactNumber</dd>
+        </dl>
+    </div>
+
+    <div class="uk-margin-top">
+        <a asp-controller="Customer" asp-action="Edit" asp-route-id="@Model.CustomerId" class="uk-button uk-button-warning" style="background-color: #FFEE8C; color: #444444" ;>Edit</a>
+        <a asp-controller="Customer" asp-action="Index" class="uk-button uk-button-primary">Back to List</a>
+    </div>
+</div>
+
+

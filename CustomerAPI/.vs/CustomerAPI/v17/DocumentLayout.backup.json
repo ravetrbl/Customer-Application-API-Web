@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\rave\\source\\repos\\customer application - api\u0026web\\customerapi\\customerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\rave\\source\\repos\\customer application - api\u0026web\\customerapi\\customerapi\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\rave\\source\\repos\\customer application - api\u0026web\\customerapi\\customerapi\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\rave\\source\\repos\\customer application - api\u0026web\\customerapi\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\rave\\source\\repos\\customer application - api\u0026web\\customerapi\\customerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\rave\\source\\repos\\customer application - api\u0026web\\customerapi\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\rave\\source\\repos\\customer application - api\u0026web\\customerapi\\customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA21AABA-1F18-4EC8-86A7-D55D207C1DF5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Models\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Models\\CustomerContext.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\CustomerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:58:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T17:57:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\appsettings.json",
+              "RelativeToolTip": "CustomerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T14:19:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:35:51.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerAPI\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:25:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "CustomerAPI\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:23:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Rave\\source\\repos\\Customer Application - API\u0026Web\\CustomerAPI\\CustomerAPI\\Program.cs",
+              "RelativeToolTip": "CustomerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:52:15.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<CustomerAPI.Models.Customer>
+
+<div class="uk-card uk-card-default uk-card-body uk-margin">
+    <h1 class="uk-heading-line"><span>Customers</span></h1>
+
+    <div class="uk-text-right mb-3">
+        <a asp-controller="Customer" asp-action="Create" class="uk-button uk-button-primary">+ ADD CUSTOMER</a>
+    </div>
+
+    <table id="customersTable" class="uk-table uk-table-striped uk-table-hover">
+        <thead>
+            <tr>
+                <th>Full Name</th>
+                <th>Birthdate</th>
+                <th>Gender</th>
+                <th>Address</th>
+                <th>Contact Number</th>
+                <th class="uk-text-right">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model)
+            {
+                <tr>
+                    <td>@customer.FullName</td>
+                    <td>@customer.Birthdate.ToShortDateString()</td>
+                    <td>@customer.Gender</td>
+                    <td>@customer.Address</td>
+                    <td>@customer.ContactNumber</td>
+                    <td class="uk-text-right">
+                        <a asp-controller="Customer" asp-action="Details" asp-route-id="@customer.CustomerId" class="uk-button uk-button-default uk-button-small" style="background-color: #ADDFFF; color: #444444;">View</a>
+                        <a asp-controller="Customer" asp-action="Edit" asp-route-id="@customer.CustomerId" class="uk-button uk-button-warning uk-button-small" style="background-color: #FFEE8C; color: #444444;">Edit</a>
+                        <a asp-controller="Customer" asp-action="Delete" asp-route-id="@customer.CustomerId" class="uk-button uk-button-danger uk-button-small">Delete</a>
+                    
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#customersTable').DataTable();
+        });
+    </script>
+}
